@@ -1,5 +1,7 @@
-.env
-www/*
-data/mysql/*
-logs/mysql/*
-logs/apache2/*
+/.env
+/.vscode
+/config/*
+/data/*
+/logs/*
+/www/**
+.DS_Store
